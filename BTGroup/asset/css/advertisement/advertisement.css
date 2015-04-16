@@ -1,0 +1,37 @@
+#myCarousel{
+    margin-top: 100px;
+}
+
+.carousel-caption{
+    font-size: 24px;
+}
+
+.carousel-caption h4{
+    font-size: 32px;
+}
+
+#myCarousel .item{
+    height:350px;
+}
+
+#slide1{
+    background: url("/asset/image/advertisement/1.jpg") top center no-repeat;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#slide2{
+    background: url("/asset/image/advertisement/2.jpg") top center no-repeat;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#slide3{
+    background: url("/asset/image/advertisement/3.jpg") top center no-repeat;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
